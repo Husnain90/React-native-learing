@@ -6,7 +6,7 @@ type Props = {};
 const SignOut = (props: Props) => {
   return (
     <View>
-      <Text>TESTING </Text>
+      <Text>Testing testing</Text>
     </View>
   );
 };
